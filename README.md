@@ -9,4 +9,4 @@ This project focuses more on doing data analysis by visualize the data in differ
 
 
 # Keywords
-Data visualization, ata analysis, big data
+Data visualization, data analysis, big data
