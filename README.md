@@ -6,3 +6,7 @@ This project focuses more on doing data analysis by visualize the data in differ
 * What are the most played maps between top 20 teams? 
 * Most played maps on the 9 biggest events (majors)? 
 * Probability to win a round against a full buy if you have different type of buys
+
+
+# Keywords
+Data visualization, ata analysis, big data
